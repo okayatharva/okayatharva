@@ -18,11 +18,8 @@ Previously, I worked as a Data Analyst, using Python, SQL, and Power BI for data
   - [GitHub Repository](https://github.com/okayatharva/ai-job-market-intelligence)
   - [Live Demo](https://ai-job-market-intelligence-hkxkzcnofdcuzkxiyptsp9.streamlit.app)
 
-- **AI Research & Document Assistant** — An application for exploring and querying research documents. *(Add your correct repository link.)*
+- **AI Research & Document Assistant** — An application for exploring and querying research documents. *(https://github.com/okayatharva/ai-research-assistant.git)*
 
-- **Machine Learning Project** — *(Replace with the exact name and link of one completed ML project.)*
-
-- **Data Analytics Project** — *(Replace with the exact name and link of another completed project.)*
 
 ## Currently
 
