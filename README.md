@@ -20,32 +20,66 @@ I'm currently preparing for a **mandatory full-time internship starting November
 
 ## 🚀 Featured Projects
 
-### 1. AI Research Assistant — PDF Question Answering
-A local LLM-based application that lets users ask questions about uploaded PDF documents using document retrieval and generated answers.
+### 1. Research on Machine Learning Methods — Constructor Knowledge Labs
 
-**Technologies:** Python, Streamlit, Ollama, embeddings, ChromaDB
+Completed a research task involving the structured comparison of machine learning and deep learning research papers. Analyzed methods across different architectures, focusing on their operations, assumptions, guarantees, applicability, and supporting evidence.
 
-### 2. AI Job Market Intelligence
-An application exploring job-category prediction, job search, and résumé-to-job-description comparison.
+- Compared methods including GCN, GraphSAGE, GAT, PointNet++, Vision Transformer (ViT), Deep Sets, and additional architectures.
+- Examined how underlying operations and assumptions can differ even between methods addressing similar topics.
+- Extended the analysis into a Python-based research analysis application for exploring and comparing methods.
+
+**Technologies:** Python, Pandas, Streamlit, Matplotlib
+
+[View research repository](https://github.com/okayatharva/formalism-method-comparison)
+
+### 2. AI Research Assistant — Local LLM-Based PDF Question Answering
+
+Built a Streamlit application that allows users to ask questions about uploaded PDF documents using document retrieval and a locally running language model.
+
+**Technologies:** Python, Streamlit, Ollama, ChromaDB, embeddings
+
+[View repository](https://github.com/okayatharva)
+
+### 3. AI Job Market Intelligence
+
+Developed an application exploring job-category prediction, job search, and résumé-to-job-description comparison using data processing and machine learning techniques.
 
 **Technologies:** Python, Pandas, Scikit-learn, Streamlit
 
-[View project and live demo](https://github.com/okayatharva/ai-job-market-intelligence)
+[View repository](https://github.com/okayatharva/ai-job-market-intelligence) 
 
-### 3. Product Experiment & Decision Intelligence Dashboard
-An interactive dashboard for comparing control and treatment groups, calculating conversion metrics, and evaluating differences with statistical tests and confidence intervals.
+### 4. California House Price Prediction
 
-**Technologies:** Python, Pandas, SciPy, Statsmodels, Plotly, Streamlit
+Built a machine learning regression application to predict California house prices using housing and demographic data.
 
-[View project](https://github.com/okayatharva/product-experiment-decision-dashboard)
+- Performed exploratory data analysis, preprocessing, and feature selection.
+- Compared Linear Regression, Decision Tree, and Random Forest models.
+- Evaluated model performance using R², MAE, MSE, and RMSE, with hyperparameter tuning.
+- Deployed the prediction application using Streamlit.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Streamlit
+
+[View repository](https://github.com/okayatharva/california-house-price-prediction)
+
+### 5. Product Experiment & Decision Intelligence Dashboard
+
+Built an interactive dashboard to compare control and treatment groups using conversion metrics, statistical hypothesis testing, and confidence intervals.
+
+- Calculated conversion rates and absolute and relative lift.
+- Implemented a two-proportion z-test and confidence interval calculations.
+- Added interactive visualizations and downloadable experiment summaries.
+
+**Technologies:** Python, Pandas, NumPy, SciPy, Statsmodels, Plotly, Streamlit
+
+[View repository](https://github.com/okayatharva/product-experiment-decision-dashboard)
 
 ## 🎯 Current Focus
 
-- Strengthening statistics and machine learning fundamentals
-- Learning more about LLM applications, RAG, and AI evaluation
-- Building and documenting practical data and AI projects
-- Improving software development and version-control practices
-
+- Strengthening statistics and machine learning fundamentals.
+- Learning more about LLM applications, retrieval-augmented generation (RAG), and AI evaluation.
+- Exploring research methods and comparing machine learning architectures.
+- Building, testing, documenting, and deploying practical Data/AI applications.
+- Preparing for a full-time internship starting November 2026; open to opportunities across Germany.
 ## 📫 Connect With Me
 
 - GitHub: [@okayatharva](https://github.com/okayatharva)
