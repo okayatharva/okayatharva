@@ -1,28 +1,54 @@
-# Hi, I'm Atharva 👋
+# Hi, I'm Atharva Vichare 👋
 
-I'm a Master's student in Computer Science (Big Data & AI) at SRH University Berlin, interested in applied AI, machine learning, and data-driven decision-making.
+### Master's Student in Computer Science (Big Data & AI) | Aspiring Data & AI Professional
 
-Previously, I worked as a Data Analyst, using Python, SQL, and Power BI for data analysis and reporting. I'm currently building practical projects to strengthen my skills in data science and generative AI.
+I'm pursuing my Master's in Computer Science (Big Data & AI) at SRH University Berlin, Germany.
 
-## Technical Skills
+I'm interested in applying data analytics, machine learning, and AI to practical problems. I enjoy building projects that help me understand concepts through hands-on implementation, and I'm continuously strengthening my technical skills.
+
+I'm currently preparing for a **mandatory full-time internship starting November 2026** and am open to opportunities across Germany.
+
+## 🛠️ Skills & Technologies
 
 - **Programming & Data:** Python, SQL, Pandas, NumPy
-- **Machine Learning:** Scikit-learn, model evaluation, exploratory data analysis
-- **AI:** LLM applications, document question answering, semantic search
-- **Visualization & Apps:** Streamlit, Power BI, Plotly
-- **Tools:** Git, GitHub, VS Code
+- **Data Visualization:** Power BI, Plotly
+- **Machine Learning:** Scikit-learn, model evaluation, basic deep learning
+- **AI Applications:** LLMs, retrieval-augmented generation (RAG), embeddings
+- **Tools:** Git, GitHub, Streamlit, VS Code
 
-## Featured Projects
+*I'm continuing to develop my skills through practical projects and structured learning.*
 
-- **AI Job Market Intelligence** — Job-market analysis and AI-assisted job matching.
-  - [GitHub Repository](https://github.com/okayatharva/ai-job-market-intelligence)
-  - [Live Demo](https://ai-job-market-intelligence-hkxkzcnofdcuzkxiyptsp9.streamlit.app)
+## 🚀 Featured Projects
 
-- **AI Research & Document Assistant** — An application for exploring and querying research documents. *(https://github.com/okayatharva/ai-research-assistant.git)*
+### 1. AI Research Assistant — PDF Question Answering
+A local LLM-based application that lets users ask questions about uploaded PDF documents using document retrieval and generated answers.
 
+**Technologies:** Python, Streamlit, Ollama, embeddings, ChromaDB
 
-## Currently
+### 2. AI Job Market Intelligence
+An application exploring job-category prediction, job search, and résumé-to-job-description comparison.
 
-Building practical AI and data applications and looking for internship opportunities in Germany starting November 2026.
+**Technologies:** Python, Pandas, Scikit-learn, Streamlit
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/atharva-vichare-243ab0215/)
+[View project and live demo](https://github.com/okayatharva/ai-job-market-intelligence)
+
+### 3. Product Experiment & Decision Intelligence Dashboard
+An interactive dashboard for comparing control and treatment groups, calculating conversion metrics, and evaluating differences with statistical tests and confidence intervals.
+
+**Technologies:** Python, Pandas, SciPy, Statsmodels, Plotly, Streamlit
+
+[View project](https://github.com/okayatharva/product-experiment-decision-dashboard)
+
+## 🎯 Current Focus
+
+- Strengthening statistics and machine learning fundamentals
+- Learning more about LLM applications, RAG, and AI evaluation
+- Building and documenting practical data and AI projects
+- Improving software development and version-control practices
+
+## 📫 Connect With Me
+
+- GitHub: [@okayatharva](https://github.com/okayatharva)
+- LinkedIn: www.linkedin.com/in/atharva-vichare-0901asv
+
+I'm always interested in learning from others, collaborating on meaningful projects, and exploring opportunities to contribute to Data and AI teams.
